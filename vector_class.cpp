@@ -6,7 +6,6 @@ class CPerson{
 
 public:
     CPerson(std::string xname, int xage, std::string xstreet);
-    void add_person();
     void show_person();
 
 private:
